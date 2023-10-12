@@ -31,8 +31,7 @@ struct UserDataToolbar: View {
                 .font(.system(size: 20))
                 
             Spacer()
-            
-            
+
             Button(action: {
                 viewModel.isPresentingSheet.toggle()
             }, label: {

@@ -22,7 +22,7 @@ struct CustomSearchField: View {
                 }, label: {
                     if isRecording {
                         Image(systemName: "mic.fill")
-                            .foregroundColor(.red)
+                            .foregroundStyle(.red)
                     } else {
                         Image(systemName: "mic")
                     }

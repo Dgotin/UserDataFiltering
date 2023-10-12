@@ -11,13 +11,13 @@ struct UserRow: View {
         HStack {
             ZStack {
                 Circle()
-                    .foregroundColor(.gray)
+                    .foregroundStyle(.gray)
                     .opacity(0.15)
                     .frame(width: 45, height: 45)
 
                 Text(userData.firstName.prefix(1))
                     .font(.system(size: 20))
-                    .foregroundColor(.black)
+                    .foregroundStyle(.black)
             }
             
             HStack {
