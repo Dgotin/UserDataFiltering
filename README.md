@@ -12,7 +12,4 @@ Implementation of a mini app or user data view component to provide a solution f
 SwiftUI, Swift-Collections, Apples SpeechRecognizer
 
 ## Screenshots
-<img src="https://github.com/Dgotin/UserDataFiltering/assets/70293522/016f9348-0098-4ee3-91f6-c6da766a0ecf" width="200">
-<img src="https://github.com/Dgotin/UserDataFiltering/assets/70293522/bfdb169a-31a9-4d3e-af03-923223db9a28" width="200">
-<img src="https://github.com/Dgotin/UserDataFiltering/assets/70293522/56d53cb8-cd0d-472a-afa5-5b1c61cc118f" width="200">
-<img src="https://github.com/Dgotin/UserDataFiltering/assets/70293522/53d6fa1a-97cc-4bc5-b9e6-1eed5ab8e2ba" width="200">
+<img src="UserDataFiltering/Assets.xcassets/UserDataView.imageset/Image.png" width="200"> <img src="UserDataFiltering/Assets.xcassets/DeleteUserData.imageset/Image.png" width="200"> <img src="UserDataFiltering/Assets.xcassets/AddUserData.imageset/Image.png" width="200"> <img src="UserDataFiltering/Assets.xcassets/SpecificUserData.imageset/Image.png" width="200">
